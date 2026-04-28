@@ -1,0 +1,19 @@
+atividade-arquitetura/
+│── index.html
+│── style.css
+│── db.json
+│── package.json
+│── README.md
+└── src/
+    ├── models/
+    │   ├── Produto.js
+    │   ├── ItemPedido.js
+    │   └── Pedido.js
+    ├── services/
+    │   └── PedidoService.js
+    ├── repositories/
+    │   └── PedidoRepository.js
+    ├── controllers/
+    │   └── PedidoController.js
+    └── views/
+        └── main.js
